@@ -1,6 +1,7 @@
 //{ Driver Code Starts
 // Initial Template for Java
 
+// https://www.geeksforgeeks.org/problems/chocolates-pickup/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=chocolates-pickup
 import java.io.*;
 import java.lang.*;
 import java.util.*;
